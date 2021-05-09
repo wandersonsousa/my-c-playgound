@@ -1,4 +1,4 @@
-# my-c-playgound
+# My C Playground
 :nerd_face: :sunglasses: some c practice codes 
 
 ## Projects
